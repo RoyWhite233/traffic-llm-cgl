@@ -1,0 +1,9 @@
+model_name_or_path: /root/models/Qwen3-14B
+adapter_name_or_path: /root/runs/qwen3-14b-v1prime
+template: qwen
+finetuning_type: lora
+export_dir: /root/models/Qwen3-14B-traffic-v1prime
+export_size: 5
+export_device: cpu
+export_legacy_format: false
+trust_remote_code: true

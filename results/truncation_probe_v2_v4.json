@@ -1,0 +1,186 @@
+{
+  "v2": [
+    {
+      "q": "山区高速公路选线需要综合考虑哪些因素？请",
+      "tokens": 1510,
+      "hit_max": false,
+      "bad_end": false,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": "制**：根据勘察成果与环境变化动态调整路线方案。\n\n通过科学选线，实现山区高速公路在复杂环境下的安全、高效、可持续发展。"
+    },
+    {
+      "q": "详细说明高速公路路基边坡稳定性分析的主要",
+      "tokens": 1606,
+      "hit_max": false,
+      "bad_end": false,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": "的工程**。工程处置措施应“以防为主、防治结合”，综合采用支挡、锚固、排水、生态防护等手段，确保边坡长期稳定与安全运营。"
+    },
+    {
+      "q": "桥梁基础形式的选择依据有哪些？请对比各类",
+      "tokens": 1818,
+      "hit_max": false,
+      "bad_end": false,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": "明挖扩大基础或钻孔灌注桩。\n\n基础形式的选择应结合具体工程条件，进行技术经济综合比选，确保结构安全、施工可行、经济合理。"
+    },
+    {
+      "q": "隧道围岩分级的方法有哪些？请详细说明各级",
+      "tokens": 1770,
+      "hit_max": false,
+      "bad_end": false,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": " |\n\n> **注**：具体支护参数应结合地质勘察报告、施工方法、监控量测结果进行动态设计，确保隧道施工安全与结构稳定。"
+    },
+    {
+      "q": "高速公路排水系统由哪些部分组成？请分别阐",
+      "tokens": 2048,
+      "hit_max": true,
+      "bad_end": true,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": "\n  - 结构开裂：混凝土因冻融、干缩或地基不均匀沉降开裂；\n  - 洞身渗漏：防水层破损导致地下水渗入；\n  - 排水"
+    },
+    {
+      "q": "软土地基处理的常用方法有哪些？请系统对比",
+      "tokens": 2048,
+      "hit_max": true,
+      "bad_end": true,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": "载力高，沉降小；\n- 桩体强度高，耐久性好；\n- 可灵活调整桩长、间距和直径；\n- 适用于多种软土条件。\n\n#### 4"
+    },
+    {
+      "q": "公路平面交叉与立体交叉如何选型？请阐述选",
+      "tokens": 1197,
+      "hit_max": false,
+      "bad_end": true,
+      "in_1200_peak": true,
+      "truncated": true,
+      "tail": "”的总体原则，结合交通量、道路等级、地形条件与未来发展需求进行综合决策。平面交叉适用于交通量小、地形复杂或成本敏感区域，"
+    },
+    {
+      "q": "沥青路面与水泥混凝土路面在结构组成、力学",
+      "tokens": 1471,
+      "hit_max": false,
+      "bad_end": false,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": "需求的干线公路中，水泥混凝土路面更为适宜。随着新材料、新工艺的发展，两种路面形式正朝着更高效、更环保、更智能的方向演进。"
+    },
+    {
+      "q": "公路工程地质勘察分为哪几个阶段？请详细说",
+      "tokens": 1309,
+      "hit_max": false,
+      "bad_end": false,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": "质参数与施工风险提示 |\n\n各阶段勘察成果应相互衔接，形成完整的工程地质资料体系，确保公路工程的安全性、经济性与耐久性。"
+    },
+    {
+      "q": "高速公路交通安全设施包括哪些类型？请阐述",
+      "tokens": 1198,
+      "hit_max": false,
+      "bad_end": true,
+      "in_1200_peak": true,
+      "truncated": true,
+      "tail": "全运行的重要组成部分，其设置应遵循“安全优先、系统协调、可视可读、连续一致、经济耐久”的基本原则，并满足国家相关技术标准"
+    }
+  ],
+  "v4": [
+    {
+      "q": "山区高速公路选线需要综合考虑哪些因素？请",
+      "tokens": 1405,
+      "hit_max": false,
+      "bad_end": false,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": "理原则应遵循“安全优先、生态优先、经济合理、技术可行、社会和谐”的总体方针，通过系统分析与多方案比选，最终确定最优线位。"
+    },
+    {
+      "q": "详细说明高速公路路基边坡稳定性分析的主要",
+      "tokens": 1500,
+      "hit_max": false,
+      "bad_end": false,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": "排水措施、削坡减载、坡面防护、锚固措施及综合处治等。通过科学分析与合理处置，可有效保障高速公路路基边坡的长期稳定与安全。"
+    },
+    {
+      "q": "桥梁基础形式的选择依据有哪些？请对比各类",
+      "tokens": 1278,
+      "hit_max": false,
+      "bad_end": false,
+      "in_1200_peak": true,
+      "truncated": true,
+      "tail": "础安全、耐久与经济合理。在实际工程中，常采用组合基础或特殊基础形式以应对复杂条件，需结合具体工程进行专项设计与施工组织。"
+    },
+    {
+      "q": "隧道围岩分级的方法有哪些？请详细说明各级",
+      "tokens": 1613,
+      "hit_max": false,
+      "bad_end": false,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": "广泛应用。各级围岩对应的支护设计要点需根据围岩的具体地质条件、稳定性及施工方法综合确定，确保隧道结构安全和施工顺利进行。"
+    },
+    {
+      "q": "高速公路排水系统由哪些部分组成？请分别阐",
+      "tokens": 1428,
+      "hit_max": false,
+      "bad_end": false,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": "加强施工质量控制和后期维护管理。通过科学的设计和有效的防治措施，可显著减少水损害，保障高速公路的长期使用性能和行车安全。"
+    },
+    {
+      "q": "软土地基处理的常用方法有哪些？请系统对比",
+      "tokens": 2048,
+      "hit_max": true,
+      "bad_end": true,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": "### 4. 缺点\n- 成本较高，材料用量大；\n- 施工机械要求高，场地要求大；\n- 需要较长的养护期；\n- 对桩间土的"
+    },
+    {
+      "q": "公路平面交叉与立体交叉如何选型？请阐述选",
+      "tokens": 1565,
+      "hit_max": false,
+      "bad_end": false,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": "满足规范要求，避免交叉口群密集设置，保障主线通行能力。通过科学选型与精细化设计，可有效提升公路交叉口的运行效率与安全性。"
+    },
+    {
+      "q": "沥青路面与水泥混凝土路面在结构组成、力学",
+      "tokens": 1153,
+      "hit_max": false,
+      "bad_end": false,
+      "in_1200_peak": true,
+      "truncated": true,
+      "tail": "用寿命及养护能力等因素综合决策。在实际工程中，也可采用复合式路面（如沥青混凝土面层+水泥混凝土基层）以兼顾性能与经济性。"
+    },
+    {
+      "q": "公路工程地质勘察分为哪几个阶段？请详细说",
+      "tokens": 1273,
+      "hit_max": false,
+      "bad_end": false,
+      "in_1200_peak": true,
+      "truncated": true,
+      "tail": "地质报告，施工建议 |\n\n以上三个阶段相互衔接，共同构成公路工程地质勘察的完整体系，确保公路工程的安全、经济与合理设计。"
+    },
+    {
+      "q": "高速公路交通安全设施包括哪些类型？请阐述",
+      "tokens": 2048,
+      "hit_max": true,
+      "bad_end": true,
+      "in_1200_peak": false,
+      "truncated": false,
+      "tail": "符合驾驶行为规律、因地制宜等原则。各类设施的设计应满足相应的技术要求，确保设施的可靠性、有效性和耐久性，从而保障高速公路"
+    }
+  ]
+}

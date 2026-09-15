@@ -1,0 +1,71 @@
+# LLaMA-Factory config: v1-prime — the ungoverned, matched-budget control for v2.
+#
+# Every field below is copied verbatim from configs/qwen3-14b-clean-v2.yaml except:
+#   - dataset      : the seven ungoverned layer files instead of the governed ones
+#   - output_dir   : /root/runs/qwen3-14b-v1prime
+#   - run_name
+#   - seed         : made explicit (v2 relied on the LLaMA-Factory default, which is 42;
+#                    confirmed from v2's saved training_args.bin)
+#   - save_total_limit: raised to 6 so the final adapter cannot be rotated away, which is
+#                    how the original v1's 1-epoch checkpoint was lost
+#
+# Expected: 67,001 items - 2% val = 65,660 train -> 65,660/16 = 4,104 optimization steps,
+# identical to v2. At ~50 steps/hour this is roughly 82 hours.
+#
+# Run with DISABLE_VERSION_CHECK=1, exactly as v2 was (LLaMA-Factory pins datasets<=4.0.0
+# while the environment has 4.3.0; this is the same environment all previous runs used).
+
+### model
+model_name_or_path: /root/models/Qwen3-14B
+quantization_bit: 4
+quantization_method: bnb
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_target: all
+lora_rank: 64
+lora_alpha: 128
+lora_dropout: 0.05
+
+### dataset
+dataset_dir: /root/traffic-llm/data
+dataset: v1prime_p0_ragflow,v1prime_p0_transgpt,v1prime_p0_belle,v1prime_p1,v1prime_p2,v1prime_p3,v1prime_book_qa
+template: qwen
+cutoff_len: 4096
+max_samples: 100000
+preprocessing_num_workers: 8
+overwrite_cache: false
+
+### output
+output_dir: /root/runs/qwen3-14b-v1prime
+logging_steps: 10
+save_steps: 250
+save_total_limit: 6
+plot_loss: true
+overwrite_output_dir: false
+report_to: none
+run_name: qwen3-14b-v1prime
+
+### train
+seed: 42
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 8
+learning_rate: 2.0e-4
+num_train_epochs: 1.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.03
+bf16: true
+gradient_checkpointing: true
+optim: paged_adamw_8bit
+ddp_timeout: 180000000
+
+### eval
+val_size: 0.02
+per_device_eval_batch_size: 1
+eval_strategy: steps
+eval_steps: 500
+ignore_data_skip: true
+resume_from_checkpoint: true

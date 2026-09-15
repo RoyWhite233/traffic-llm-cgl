@@ -99,7 +99,7 @@ else:
     try:
         from openai import OpenAI
         import re
-        TOKEN=re.search(r'TOKEN="(sk-[^"]+)"',open("/root/traffic-llm/clean_v2_judge.py").read()).group(1)
+        TOKEN=os.environ["RELAY_API_KEY"]
         cli=OpenAI(base_url="http://localhost:3000/v1",api_key=TOKEN)
         TMODEL="Qwen3-235B-A22B-Instruct"
         tp=[]

@@ -6,7 +6,7 @@ chunks INSIDE the cited document, then ranks candidates by character-3-gram over
 with the explanation. The explanation itself is never emitted as clause text — it only
 guides the search; a human/AI judgment still confirms each candidate afterwards.
 """
-import json, re, os, subprocess, time
+import json, re, os, time
 import requests
 
 KB = "a10cc8e4387411f19a3cbd8efb86d340"
@@ -15,17 +15,7 @@ B = "/root/traffic-llm/eval/benchmark"
 TOP = 5
 
 
-def get_token():
-    sql = ("SELECT token FROM rag_flow.api_token WHERE tenant_id="
-           "(SELECT tenant_id FROM rag_flow.knowledgebase WHERE id='%s') LIMIT 1;" % KB)
-    out = subprocess.check_output(
-        ["docker", "exec", "docker-mysql-1", "mysql", "-uroot", "-pinfini_rag_flow", "-N", "-e", sql],
-        stderr=subprocess.DEVNULL).decode().strip()
-    assert out.startswith("ragflow-")
-    return out
-
-
-H = {"Authorization": "Bearer " + get_token()}
+H = {"Authorization": "Bearer " + os.environ["RAGFLOW_API_KEY"]}
 HJ = {**H, "Content-Type": "application/json"}
 
 

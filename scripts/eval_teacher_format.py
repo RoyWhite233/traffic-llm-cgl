@@ -18,7 +18,6 @@ from openai import OpenAI
 
 BENCH = "/root/traffic-llm/eval/benchmark/test.jsonl"
 OUT = "/root/traffic-llm/eval/benchmark/result_teacher_format.json"
-JUDGE_SRC = "/root/traffic-llm/clean_v2_judge.py"
 MODEL = "Qwen3-235B-A22B-Instruct"
 RELAY = "http://localhost:3000/v1"
 CONC = 2
@@ -28,7 +27,7 @@ SYS = ("你是交通工程勘察设计领域专家。下面是一道单选题,�
 SYS_STRICT = ("你是交通工程勘察设计领域专家。下面是一道单选题。你必须只输出一个大写字母"
               "(A、B、C、D 之一),不输出思考过程、解释或任何其他字符。")
 
-TOKEN = re.search(r'TOKEN="(sk-[^"]+)"', open(JUDGE_SRC).read()).group(1)
+TOKEN = os.environ["RELAY_API_KEY"]
 cli = OpenAI(base_url=RELAY, api_key=TOKEN, timeout=180)
 
 rows = [json.loads(l) for l in open(BENCH, encoding="utf-8") if l.strip()]

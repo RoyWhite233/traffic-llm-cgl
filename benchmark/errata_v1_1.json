@@ -1,0 +1,17 @@
+{
+ "benchmark_version": "1.1",
+ "changes": [
+  {
+   "id": "pave-029",
+   "field": "ground_truth",
+   "from": "D (98%)",
+   "to": "B (96%)",
+   "basis": "JTG F40-2004 Table 11.5.1-1: the representative compaction degree for expressways is 96%; adjudicated under the released conservative protocol (bucketA_adjudication.jsonl)."
+  }
+ ],
+ "flagged_uncertain_no_change": [
+  "surv-008",
+  "traf-015"
+ ],
+ "note": "All results reported in the revised manuscript use the corrected key. Per-item predictions are unchanged; only scoring against the corrected key differs."
+}

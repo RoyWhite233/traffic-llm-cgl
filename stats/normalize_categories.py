@@ -41,8 +41,6 @@ before = collections.Counter(r['category'] for r in rows)
 
 n_merged = 0
 for r in rows:
-    # The public benchmark already carries category_legacy; accepting both shapes
-    # keeps the script useful for the original raw file and for the release copy.
     legacy = r.get('category_legacy', r['category'])
     canon = MERGE.get(legacy, legacy)
     if canon != legacy:

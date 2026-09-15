@@ -1,0 +1,64 @@
+# LLaMA-Factory training config: Qwen3-14B QLoRA + RAG-aware SFT
+# Run: llamafactory-cli train configs/qwen3-14b-traffic-rag.yaml
+#
+# Hardware target: single RTX 5090 32GB + 192GB RAM
+# Expected: ~30-35 hours for 94k samples × 3 epochs
+
+### model
+model_name_or_path: /root/models/Qwen3-14B
+quantization_bit: 4
+quantization_method: bnb
+trust_remote_code: true
+
+### method
+stage: sft
+do_train: true
+finetuning_type: lora
+lora_target: all
+lora_rank: 64
+lora_alpha: 128
+lora_dropout: 0.05
+
+### dataset
+# dataset_info.json 在 /root/traffic-llm/data/，LLaMA-Factory 用 dataset_dir 指过去
+dataset_dir: /root/traffic-llm/data
+# P0 全部 + 未来 P1/P2/P3 合成完后逐个加上来
+# 当前可用：traffic_p0_ragflow (11k) + traffic_p0_transgpt (47k) + traffic_p0_belle_anchor (5k) = 63k
+# 等 235B 通了再加：traffic_p1_rag_aware, traffic_p2_hard_cases, traffic_p3_refusal
+dataset: traffic_p0_transgpt_clean,traffic_p0_belle_clean,traffic_p1_clean,traffic_p2_clean,traffic_p3_clean,traffic_p0_book_qa
+template: qwen
+cutoff_len: 4096
+max_samples: 100000
+preprocessing_num_workers: 8
+overwrite_cache: false
+
+### output
+output_dir: /root/runs/qwen3-14b-v2-seed43
+logging_steps: 10
+save_steps: 250
+save_total_limit: 6
+plot_loss: true
+overwrite_output_dir: true
+report_to: none
+run_name: qwen3-14b-v2-seed43
+
+### train
+per_device_train_batch_size: 2
+gradient_accumulation_steps: 8
+learning_rate: 2.0e-4
+num_train_epochs: 1.0
+lr_scheduler_type: cosine
+warmup_ratio: 0.03
+bf16: true
+gradient_checkpointing: true
+optim: paged_adamw_8bit
+ddp_timeout: 180000000
+
+### eval
+val_size: 0.02
+per_device_eval_batch_size: 1
+eval_strategy: steps
+eval_steps: 500
+
+# W-H repeat-seed run: identical to v2 final configuration except the seed.
+seed: 43

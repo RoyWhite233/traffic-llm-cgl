@@ -27,7 +27,7 @@ and Table 4 from `calibration_ablation/*.jsonl` (labels only, no sample text nee
 - `c4_condition/` — verified raw-clause texts for the 4th knowledge-provision condition,
   with the verification protocol and per-item provenance (16 items excluded, reasons given)
 - `scripts/` — evaluation, cleaning, sampling and retrieval scripts (API tokens redacted;
-  set `RELAY_API_KEY` to use your own endpoint)
+  set `RELAY_API_KEY` and, for RAGFlow retrieval, `RAGFLOW_API_KEY`)
 - `stats/` — deterministic statistics recomputation
 - `training/` — LLaMA-Factory configs and full training logs for v1, v2, v1′ and v4
 

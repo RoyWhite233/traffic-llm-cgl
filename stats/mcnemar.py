@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """Recompute every paired significance test and confidence interval reported in the paper.
 
-Inputs (released in results/ together with this script):
-  results/closedbook_base_v1_v2_teacher.json - per-item predictions of base / v1 / v2 / teacher
-  results/openbook_vs_closed_v2_deployed.json - paired closed/open-book predictions of deployed v2
+Inputs (released together with this script):
+  results/closedbook_base_v1_v2_teacher.json - base / v1 / v2 / teacher (closed book)
+  results/openbook_vs_closed_v2_deployed.json - v2 closed book vs oracle open book
 
 Outputs a Markdown report to stdout. No model calls, no randomness: fully deterministic.
 

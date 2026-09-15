@@ -4,7 +4,7 @@
 - token由本脚本运行时从mysql自取,不打印。
 - 冒烟: EVAL_LIMIT=3 先看检索返回结构。
 """
-import json, re, os, subprocess, time
+import json, re, os, time
 from collections import defaultdict
 import requests
 from openai import OpenAI
@@ -15,16 +15,7 @@ OUT = "/root/traffic-llm/eval/benchmark/result_rag_e2e.jsonl"
 TOPK = 6
 RAGFLOW = "http://172.31.101.100"
 
-def get_token():
-    sql = ("SELECT token FROM rag_flow.api_token WHERE tenant_id="
-           "(SELECT tenant_id FROM rag_flow.knowledgebase WHERE id='%s') LIMIT 1;" % KB_ID)
-    out = subprocess.check_output(
-        ["docker", "exec", "docker-mysql-1", "mysql", "-uroot", "-pinfini_rag_flow", "-N", "-e", sql],
-        stderr=subprocess.DEVNULL).decode().strip()
-    assert out.startswith("ragflow-"), "未取到token"
-    return out
-
-TOKEN = get_token()
+TOKEN = os.environ["RAGFLOW_API_KEY"]
 HDR = {"Authorization": "Bearer " + TOKEN, "Content-Type": "application/json"}
 llm = OpenAI(base_url="http://localhost:8000/v1", api_key="x")
 SYS = "你是交通工程勘察设计领域专家。下面是一道单选题和检索到的规范资料,请依据资料判断,只回答正确选项的字母(A、B、C 或 D),不要输出任何解释。"

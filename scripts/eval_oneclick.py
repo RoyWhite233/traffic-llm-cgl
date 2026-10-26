@@ -18,6 +18,7 @@ V2="/root/runs/qwen3-14b-traffic-v2-clean"
 OUT="/root/traffic-llm/eval/benchmark/result_oneclick.json"
 RELAY="http://localhost:3000/v1"
 TEACHER_MODEL="Qwen3-235B-A22B-Instruct"
+JUDGE_SRC="/root/traffic-llm/clean_v2_judge.py"   # 里面有中转池 token
 BATCH=16
 
 def banner(t): print("\n"+"="*60+"\n"+t+"\n"+"="*60, flush=True)
@@ -73,7 +74,7 @@ if os.environ.get("SKIP_TEACHER"):
 else:
     try:
         from openai import OpenAI
-        TOKEN=os.environ["RELAY_API_KEY"]
+        TOKEN=re.search(r'TOKEN="(sk-[^"]+)"',open(JUDGE_SRC).read()).group(1)
         cli=OpenAI(base_url=RELAY,api_key=TOKEN)
         tp=[]
         for idx,r in enumerate(rows):

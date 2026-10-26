@@ -1,4 +1,6 @@
 {
+  "key_version": "1.1",
+  "note": "Embedded summary fields (correct, err_old, err_new) were recomputed in release v1.2 against answer key v1.1 (benchmark/benchmark_252_v1_1.jsonl). Per-item predictions and all other original fields are unchanged; v1.1 differs from v1.0 only at pave-029 (D -> B, see benchmark/errata_v1_1.json). Manuscript numbers: stats/final_numbers_v2.json. err_old lists items answered incorrectly by the earlier closed-book run (results/openbook_vs_closed_v2_deployed.json closed); drift lists letter changes and does not depend on the key.",
   "preds": [
     "A",
     "B",

@@ -1,9 +1,11 @@
 {
+  "key_version": "1.1",
+  "note": "Embedded summary fields (summary) were recomputed in release v1.2 against answer key v1.1 (benchmark/benchmark_252_v1_1.jsonl). Per-item predictions and all other original fields are unchanged; the gts field remains the original v1.0 key as stored at evaluation time; v1.1 differs from v1.0 only at pave-029 (D -> B, see benchmark/errata_v1_1.json). Manuscript numbers: stats/final_numbers_v2.json. The superseded v1.0 summary (teacher 169, base 161) is kept in legacy/stats_report.json.",
   "summary": {
     "base": {
-      "correct": 161,
+      "correct": 160,
       "total": 252,
-      "acc": 0.6388888888888888,
+      "acc": 0.6349206349206349,
       "unanswered": 0,
       "bycat": {
         "工程地质勘察": [
@@ -15,7 +17,7 @@
           50
         ],
         "路基路面设计": [
-          28,
+          27,
           40
         ],
         "桥涵设计": [
@@ -157,9 +159,9 @@
       }
     },
     "teacher": {
-      "correct": 169,
+      "correct": 168,
       "total": 252,
-      "acc": 0.6706349206349206,
+      "acc": 0.6666666666666666,
       "unanswered": 42,
       "bycat": {
         "工程地质勘察": [
@@ -171,7 +173,7 @@
           50
         ],
         "路基路面设计": [
-          31,
+          30,
           40
         ],
         "桥涵设计": [

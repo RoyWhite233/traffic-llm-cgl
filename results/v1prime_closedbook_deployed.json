@@ -1,4 +1,6 @@
 {
+  "key_version": "1.1",
+  "note": "Embedded summary fields (correct) were recomputed in release v1.2 against answer key v1.1 (benchmark/benchmark_252_v1_1.jsonl). Per-item predictions and all other original fields are unchanged; v1.1 differs from v1.0 only at pave-029 (D -> B, see benchmark/errata_v1_1.json). Manuscript numbers: stats/final_numbers_v2.json. diff_vs_adapter counts items whose predicted letter differs from results/v1prime_closedbook_adapter.json and does not depend on the key.",
   "preds": [
     "C",
     "B",
@@ -253,6 +255,6 @@
     "A",
     "C"
   ],
-  "correct": 159,
+  "correct": 160,
   "diff_vs_adapter": 40
 }

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Build the v1-prime training set: the ungoverned counterpart of v2 at an identical budget.
+"""Build the v1-prime training set: the ungoverned counterpart of v2, matched in sample count and optimization steps (token counts differ).
 
 Why this exists
 ---------------

@@ -8,7 +8,7 @@ import json, requests, re, random, time, os, threading, concurrent.futures
 from collections import Counter
 
 BASE = "http://localhost:3000/v1/chat/completions"
-TOKEN = os.environ["RELAY_API_KEY"]
+TOKEN = re.search(r'TOKEN="(sk-[^"]+)"', open('/root/traffic-llm/clean_v2_judge.py').read()).group(1)
 MODEL = "DeepSeek-V3-1-w8a8"
 CONC = 3
 OUT = "/root/traffic-llm/audit/ablation_calib_detail.jsonl"

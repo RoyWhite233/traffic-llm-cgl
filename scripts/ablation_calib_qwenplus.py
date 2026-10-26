@@ -8,7 +8,7 @@ import json, requests, re, random, time, os, threading, concurrent.futures
 from collections import Counter
 
 BASE = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions"
-TOKEN = os.environ["RELAY_API_KEY"]
+TOKEN = re.search(r'TOKEN="(sk-[^"]+)"', open('/root/traffic-llm/clean_v2_bl.py').read()).group(1)
 MODEL = "qwen-plus"
 CONC = 20
 OUT = "/root/traffic-llm/audit/ablation_calib_qwenplus.jsonl"

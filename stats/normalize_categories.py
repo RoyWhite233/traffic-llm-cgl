@@ -14,8 +14,8 @@ Usage:  python stats/normalize_categories.py
 import json, os, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SRC = os.path.join(ROOT, 'benchmark', 'benchmark_252.jsonl')
-DST = os.path.join(ROOT, 'benchmark', 'benchmark_252_normalized.jsonl')
+SRC = os.path.join(ROOT, 'eval', 'benchmark', 'test.jsonl')
+DST = os.path.join(ROOT, 'eval', 'benchmark', 'test_release.jsonl')
 
 # legacy variant -> canonical label
 MERGE = {
@@ -41,7 +41,7 @@ before = collections.Counter(r['category'] for r in rows)
 
 n_merged = 0
 for r in rows:
-    legacy = r.get('category_legacy', r['category'])
+    legacy = r['category']
     canon = MERGE.get(legacy, legacy)
     if canon != legacy:
         n_merged += 1

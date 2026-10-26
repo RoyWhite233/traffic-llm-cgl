@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Cache RAGFlow retrieval contexts for all 252 items (C21: identical contexts for
 base-vs-v2 paired comparison; reviewer asked for cached retrieval + unified env)."""
-import json, re, os, time
+import json, re, os, subprocess, time
 import requests
 
 KB_ID = "a10cc8e4387411f19a3cbd8efb86d340"
@@ -10,7 +10,11 @@ OUT = "/root/traffic-llm/eval/benchmark/rag_ctx_cache.jsonl"
 TOPK = 6
 RAGFLOW = "http://172.31.101.100"
 
-TOKEN = os.environ["RAGFLOW_API_KEY"]
+sql = ("SELECT token FROM rag_flow.api_token WHERE tenant_id="
+       "(SELECT tenant_id FROM rag_flow.knowledgebase WHERE id='%s') LIMIT 1;" % KB_ID)
+TOKEN = subprocess.check_output(["docker","exec","docker-mysql-1","mysql","-uroot","-pinfini_rag_flow","-N","-e",sql],
+    stderr=subprocess.DEVNULL).decode().strip()
+assert TOKEN.startswith("ragflow-")
 HDR = {"Authorization": "Bearer " + TOKEN, "Content-Type": "application/json"}
 
 def retrieve(q):

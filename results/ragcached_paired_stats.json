@@ -1,4 +1,6 @@
 {
+  "key_version": "1.1",
+  "note": "Embedded summary fields (base, v2, b, c, p) were recomputed in release v1.2 against answer key v1.1 (benchmark/benchmark_252_v1_1.jsonl). Per-item predictions and all other original fields are unchanged; v1.1 differs from v1.0 only at pave-029 (D -> B, see benchmark/errata_v1_1.json). Manuscript numbers: stats/final_numbers_v2.json. b = items only base answered correctly, c = items only v2 answered correctly (per-item predictions in ragcached_base.json / ragcached_v2.json).",
   "base": 214,
   "v2": 205,
   "b": 14,

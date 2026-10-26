@@ -3,7 +3,7 @@
 ground-truth answer was challenged by the precheck, retrieve the governing clauses
 from the spec corpus and let a strong judge rule keep/change/uncertain.
 Conservative rule: change GT ONLY on conclusive clause evidence."""
-import json, re, sys, time, os
+import json, re, sys, time
 import requests
 sys.path.insert(0, "/root/traffic-llm/scripts_repro")
 import fetch_clause_candidates as F
@@ -14,7 +14,7 @@ A = [t for t in tri if t["bucket"] == "A"]
 bench = {json.loads(l)["id"]: json.loads(l) for l in open(B + "test.jsonl", encoding="utf-8") if l.strip()}
 POOL = "http://localhost:3000/v1/chat/completions"
 MODEL = "DeepSeek-V3-1-w8a8"
-TOKEN = os.environ["RELAY_API_KEY"]
+TOKEN = re.search(r'TOKEN="(sk-[^"]+)"', open("/root/traffic-llm/clean_v2_judge.py").read()).group(1)
 
 SYS = ("你是公路工程规范权威裁决人。一道基准题的标准答案受到质疑,给你题目、原标准答案、解析、质疑理由,"
        "以及从规范库检索到的条文片段。请裁决,只输出JSON:"

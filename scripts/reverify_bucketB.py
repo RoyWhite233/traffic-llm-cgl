@@ -2,7 +2,7 @@
 """Bucket-B clause re-verification: re-retrieve the cited provision for items whose
 recovered clause mismatched the citation, AI-select the correct chunk, and build
 clause_confirmed_v2.json. Items still unrecoverable are excluded with reason."""
-import json, re, sys, time, os
+import json, re, sys, time
 import requests
 sys.path.insert(0, "/root/traffic-llm/scripts_repro")
 import fetch_clause_candidates as F
@@ -14,7 +14,7 @@ bench = {json.loads(l)["id"]: json.loads(l) for l in open(B + "test.jsonl", enco
 conf = json.load(open(B + "clause_confirmed.json", encoding="utf-8"))
 POOL = "http://localhost:3000/v1/chat/completions"
 MODEL = "DeepSeek-V3-1-w8a8"
-TOKEN = os.environ["RELAY_API_KEY"]
+TOKEN = re.search(r'TOKEN="(sk-[^"]+)"', open("/root/traffic-llm/clean_v2_judge.py").read()).group(1)
 
 SYS = ("你是规范条文核对员。给你一道题(含出处与解析)和若干检索片段,找出真正对应题目所引条文/表格、"
        "且包含答题所需内容的片段。只输出JSON:"

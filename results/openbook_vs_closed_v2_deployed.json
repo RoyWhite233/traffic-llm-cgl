@@ -1,4 +1,6 @@
 {
+  "key_version": "1.1",
+  "note": "Embedded summary fields (summary) were recomputed in release v1.2 against answer key v1.1 (benchmark/benchmark_252_v1_1.jsonl). Per-item predictions and all other original fields are unchanged; the gts field remains the original v1.0 key as stored at evaluation time; v1.1 differs from v1.0 only at pave-029 (D -> B, see benchmark/errata_v1_1.json). Manuscript numbers: stats/final_numbers_v2.json.",
   "closed": [
     "C",
     "B",
@@ -1017,7 +1019,7 @@
   ],
   "summary": {
     "closed": 160,
-    "open": 251,
+    "open": 250,
     "total": 252,
     "bycat_closed": {
       "工程地质勘察": [
@@ -1075,7 +1077,7 @@
         50
       ],
       "路基路面设计": [
-        40,
+        39,
         40
       ],
       "桥涵设计": [

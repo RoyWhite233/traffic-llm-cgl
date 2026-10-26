@@ -1,4 +1,4 @@
-# LLaMA-Factory config: v1-prime — the ungoverned, matched-budget control for v2.
+# LLaMA-Factory config: v1-prime — the ungoverned, matched-sample, matched-step control for v2 (token counts differ).
 #
 # Every field below is copied verbatim from configs/qwen3-14b-clean-v2.yaml except:
 #   - dataset      : the seven ungoverned layer files instead of the governed ones

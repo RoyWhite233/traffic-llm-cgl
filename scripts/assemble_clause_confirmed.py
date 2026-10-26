@@ -6,7 +6,8 @@ Verdict provenance:
   - auto      : a retrieved chunk contains the cited clause/table number (pass1+2, 188 items)
   - ai-review : per-item AI judgment over ranked candidates (batches judge_00..03 + micro), 48
   - excluded  : clause text could not be recovered from the KB; item is dropped from C4
-                and the count is reported in the paper (16 items)
+                (16 items in this first pass; the final C4 set in the paper uses the
+                re-verified c4_condition/clause_confirmed_v2.json: 55 excluded, 197 retained)
 All decisions follow docs/C4_clause_verification_protocol.md and are spot-checkable.
 """
 import json, os

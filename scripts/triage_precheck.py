@@ -7,7 +7,7 @@ IN = "/root/traffic-llm/eval/benchmark/precheck_252.jsonl"
 OUT = "/root/traffic-llm/eval/benchmark/precheck_triage.jsonl"
 BASE = "http://localhost:3000/v1/chat/completions"
 MODEL = "DeepSeek-V3-1-w8a8"
-TOKEN = os.environ["RELAY_API_KEY"]
+TOKEN = re.search(r'TOKEN="(sk-[^"]+)"', open("/root/traffic-llm/clean_v2_judge.py").read()).group(1)
 
 SYS = ("你是审核分诊员。给你一条基准题目预核发现的问题描述,请判断问题的主要归属,只输出JSON:"
        '{"bucket":"A|B|C|D|E","why":"≤20字"}。'

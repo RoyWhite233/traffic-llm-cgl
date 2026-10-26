@@ -11,7 +11,7 @@ CONF = "/root/traffic-llm/eval/benchmark/clause_confirmed.json"
 OUT = "/root/traffic-llm/eval/benchmark/precheck_252.jsonl"
 BASE = "http://localhost:3000/v1/chat/completions"
 MODEL = "DeepSeek-V3-1-w8a8"
-TOKEN = os.environ["RELAY_API_KEY"]
+TOKEN = re.search(r'TOKEN="(sk-[^"]+)"', open("/root/traffic-llm/clean_v2_judge.py").read()).group(1)
 
 rows = [json.loads(l) for l in open(BENCH, encoding="utf-8") if l.strip()]
 conf = json.load(open(CONF, encoding="utf-8"))

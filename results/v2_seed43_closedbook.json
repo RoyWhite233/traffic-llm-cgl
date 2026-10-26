@@ -1,12 +1,14 @@
 {
+  "key_version": "1.1",
+  "note": "Embedded summary fields (summary, mcnemar_vs) were recomputed in release v1.2 against answer key v1.1 (benchmark/benchmark_252_v1_1.jsonl). Per-item predictions and all other original fields are unchanged; the gts field remains the original v1.0 key as stored at evaluation time; v1.1 differs from v1.0 only at pave-029 (D -> B, see benchmark/errata_v1_1.json). Manuscript numbers: stats/final_numbers_v2.json. In mcnemar_vs, b = items only the reference system answered correctly, c = items only this system answered correctly.",
   "summary": {
-    "correct": 167,
+    "correct": 166,
     "total": 252,
-    "acc": 0.6626984126984127,
+    "acc": 0.6587301587301587,
     "unanswered": 0,
     "wilson95": [
-      0.6022705101745917,
-      0.7182404826823007
+      0.598199402861068,
+      0.7144942487807004
     ],
     "bycat": {
       "工程地质勘察": [
@@ -18,7 +20,7 @@
         50
       ],
       "路基路面设计": [
-        28,
+        27,
         40
       ],
       "桥涵设计": [
@@ -58,20 +60,20 @@
   "mcnemar_vs": {
     "v2": {
       "b": 14,
-      "c": 17,
-      "p": 0.720100131817162,
+      "c": 16,
+      "p": 0.855535551905632,
       "ref_correct": 164
     },
     "base": {
       "b": 15,
       "c": 21,
       "p": 0.40503224614076316,
-      "ref_correct": 161
+      "ref_correct": 160
     },
     "v1": {
       "b": 26,
-      "c": 60,
-      "p": 0.0003169992822776409,
+      "c": 59,
+      "p": 0.0004471991792769285,
       "ref_correct": 133
     }
   },

@@ -87,7 +87,7 @@ json.dump({"summary":{"correct":correct,"total":len(gts),"acc":correct/len(gts),
     open(OUT,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
 print(f"结果文件: {OUT}", flush=True)
 
-# extra pairing: v1prime (matched-budget control) vs this seed-43 run
+# extra pairing: v1prime (matched-sample, matched-step control) vs this seed-43 run
 try:
     v1p = json.load(open("/root/traffic-llm/eval/benchmark/result_v1prime.json", encoding="utf-8"))["preds"]["v1prime"]
     b, c, p = mcnemar(v1p, preds)

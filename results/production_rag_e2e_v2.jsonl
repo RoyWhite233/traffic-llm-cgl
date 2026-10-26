@@ -1,252 +1,252 @@
-{"id": "geo-001", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-002", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-003", "cat": "工程地质勘察", "ans": "B", "gt": "D", "ok": false, "hit": false, "n_chunks": 6}
-{"id": "geo-004", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-005", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-006", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-007", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-008", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-009", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-010", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-011", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-012", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-013", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-014", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-015", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-016", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geo-017", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-018", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geo-019", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-020", "cat": "工程地质勘察", "ans": "C", "gt": "B", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "geo-021", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-022", "cat": "工程地质勘察", "ans": "A", "gt": "D", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "geo-023", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-024", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-025", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-026", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-027", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-028", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-029", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-030", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-031", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-032", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-033", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-034", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-035", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-036", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-037", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-038", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geo-039", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-040", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geo-041", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geo-042", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-043", "cat": "工程地质勘察", "ans": "A", "gt": "B", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "geo-044", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geo-045", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-001", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-002", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-003", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-004", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-005", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-006", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-007", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geom-008", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-009", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-010", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geom-011", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-012", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-013", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-014", "cat": "路线几何设计", "ans": "A", "gt": "D", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "geom-015", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-016", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-017", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geom-018", "cat": "路线几何设计", "ans": "B", "gt": "C", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "geom-019", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geom-020", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-021", "cat": "路线几何设计", "ans": "B", "gt": "A", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "geom-022", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geom-023", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-024", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-025", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-026", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-027", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-028", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-029", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-030", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geom-031", "cat": "路线几何设计", "ans": "B", "gt": "D", "ok": false, "hit": false, "n_chunks": 6}
-{"id": "geom-032", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geom-033", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geom-034", "cat": "路线几何设计", "ans": "B", "gt": "C", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "geom-035", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-036", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-037", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geom-038", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-039", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-040", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-041", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-042", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-043", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-044", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geom-045", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "geom-046", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-047", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-048", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-049", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "geom-050", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "pave-001", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-002", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-003", "cat": "路基路面设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-004", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-005", "cat": "路基路面设计", "ans": "A", "gt": "C", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "pave-006", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-007", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-008", "cat": "路基路面设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-009", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-010", "cat": "路基路面设计", "ans": "A", "gt": "D", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "pave-011", "cat": "路基路面设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-012", "cat": "路基路面设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-013", "cat": "路基路面设计", "ans": "A", "gt": "C", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "pave-014", "cat": "路基路面设计", "ans": "B", "gt": "D", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "pave-015", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-016", "cat": "路基路面设计", "ans": "C", "gt": "A", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "pave-017", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-018", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-019", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-020", "cat": "路基路面设计", "ans": "B", "gt": "C", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "pave-021", "cat": "路基路面设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-022", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-023", "cat": "路基路面设计", "ans": "D", "gt": "C", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "pave-024", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-025", "cat": "路基路面设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-026", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-027", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-028", "cat": "路基路面设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-029", "cat": "路基路面设计", "ans": "B", "gt": "D", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "pave-030", "cat": "路基路面设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-031", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-032", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-033", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-034", "cat": "路基路面设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "pave-035", "cat": "路基路面设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "pave-036", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "pave-037", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-038", "cat": "路基路面设计", "ans": "B", "gt": "C", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "pave-039", "cat": "路基路面设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "pave-040", "cat": "路基路面设计", "ans": "A", "gt": "D", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "brg-001", "cat": "桥涵设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-002", "cat": "桥涵设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-003", "cat": "桥涵设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-004", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-005", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-006", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-007", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-008", "cat": "桥涵设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-009", "cat": "桥涵设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-010", "cat": "桥涵设计", "ans": "B", "gt": "C", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "brg-011", "cat": "桥涵设计", "ans": "C", "gt": "B", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "brg-012", "cat": "桥涵设计", "ans": "C", "gt": "B", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "brg-013", "cat": "桥涵设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-014", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-015", "cat": "桥涵设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-016", "cat": "桥涵设计", "ans": "A", "gt": "B", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "brg-017", "cat": "桥涵设计", "ans": "A", "gt": "D", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "brg-018", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-019", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-020", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-021", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-022", "cat": "桥涵设计", "ans": "B", "gt": "D", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "brg-023", "cat": "桥涵设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "brg-024", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "brg-025", "cat": "桥涵设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "brg-026", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "brg-027", "cat": "桥涵设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "brg-028", "cat": "桥涵设计", "ans": "A", "gt": "B", "ok": false, "hit": false, "n_chunks": 6}
-{"id": "brg-029", "cat": "桥涵设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-030", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-031", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-032", "cat": "桥涵设计", "ans": "C", "gt": "A", "ok": false, "hit": false, "n_chunks": 6}
-{"id": "brg-033", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "brg-034", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "brg-035", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-001", "cat": "隧道设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-002", "cat": "隧道设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-003", "cat": "隧道设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-004", "cat": "隧道设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-005", "cat": "隧道设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-006", "cat": "隧道设计", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-007", "cat": "隧道设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-008", "cat": "隧道设计", "ans": "A", "gt": "C", "ok": false, "hit": false, "n_chunks": 6}
-{"id": "tun-009", "cat": "隧道设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-010", "cat": "隧道设计", "ans": "C", "gt": "A", "ok": false, "hit": false, "n_chunks": 6}
-{"id": "tun-011", "cat": "隧道设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-012", "cat": "隧道设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-013", "cat": "隧道设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "tun-014", "cat": "隧道设计", "ans": "A", "gt": "B", "ok": false, "hit": false, "n_chunks": 6}
-{"id": "tun-015", "cat": "隧道设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "tun-016", "cat": "隧道设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-017", "cat": "隧道设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "tun-018", "cat": "隧道设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "tun-019", "cat": "隧道设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "tun-020", "cat": "隧道设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "tun-021", "cat": "隧道设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-022", "cat": "隧道设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-023", "cat": "隧道设计", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-024", "cat": "隧道设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "tun-025", "cat": "隧道设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "surv-001", "cat": "测量水文勘察", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "surv-002", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "surv-003", "cat": "测量水文勘察", "ans": "A", "gt": "B", "ok": false, "hit": false, "n_chunks": 6}
-{"id": "surv-004", "cat": "测量水文勘察", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "surv-005", "cat": "测量水文勘察", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "surv-006", "cat": "测量水文勘察", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "surv-007", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "surv-008", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "surv-009", "cat": "测量水文勘察", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "surv-010", "cat": "测量水文勘察", "ans": "A", "gt": "D", "ok": false, "hit": false, "n_chunks": 6}
-{"id": "surv-011", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "surv-012", "cat": "测量水文勘察", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "surv-013", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "surv-014", "cat": "测量水文勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "surv-015", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "surv-016", "cat": "测量水文勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "surv-017", "cat": "测量水文勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "surv-018", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "surv-019", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "surv-020", "cat": "测量水文勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "traf-001", "cat": "交叉交通工程排水防护", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "traf-002", "cat": "交叉交通工程排水防护", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "traf-003", "cat": "交叉交通工程排水防护", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "traf-004", "cat": "交叉交通工程排水防护", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "traf-005", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "traf-006", "cat": "交叉交通工程排水防护", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "traf-007", "cat": "交叉交通工程排水防护", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "traf-008", "cat": "交叉交通工程排水防护", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "traf-009", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "C", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "traf-010", "cat": "交叉交通工程排水防护", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "traf-011", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "traf-012", "cat": "交叉交通工程排水防护", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "traf-013", "cat": "交叉交通工程排水防护", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "traf-014", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "C", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "traf-015", "cat": "交叉交通工程排水防护", "ans": "B", "gt": "C", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "traf-016", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "traf-017", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "traf-018", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "traf-019", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "traf-020", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "traf-021", "cat": "交叉交通工程排水防护", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "traf-022", "cat": "交叉交通工程排水防护", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "traf-023", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "traf-024", "cat": "交叉交通工程排水防护", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "traf-025", "cat": "交叉交通工程排水防护", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "kc-001", "cat": "总则/公路分级", "ans": "B", "gt": "D", "ok": false, "hit": true, "n_chunks": 6}
-{"id": "kc-002", "cat": "路线几何", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "kc-003", "cat": "路线几何", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "kc-004", "cat": "路线几何", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "kc-005", "cat": "路线几何", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "kc-006", "cat": "路线几何", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "kc-007", "cat": "路线几何", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "kc-008", "cat": "桥涵", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "kc-009", "cat": "桥涵", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6}
-{"id": "kc-010", "cat": "隧道", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "kc-011", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6}
-{"id": "kc-012", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6}
+{"id": "geo-001", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-002", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-003", "cat": "工程地质勘察", "ans": "B", "gt": "D", "ok": false, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-004", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-005", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-006", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-007", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-008", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-009", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-010", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-011", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-012", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-013", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-014", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-015", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-016", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-017", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-018", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-019", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-020", "cat": "工程地质勘察", "ans": "C", "gt": "B", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-021", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-022", "cat": "工程地质勘察", "ans": "A", "gt": "D", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-023", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-024", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-025", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-026", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-027", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-028", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-029", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-030", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-031", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-032", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-033", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-034", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-035", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-036", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-037", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-038", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-039", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-040", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-041", "cat": "工程地质勘察", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-042", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-043", "cat": "工程地质勘察", "ans": "A", "gt": "B", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-044", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geo-045", "cat": "工程地质勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-001", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-002", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-003", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-004", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-005", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-006", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-007", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-008", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-009", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-010", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-011", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-012", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-013", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-014", "cat": "路线几何设计", "ans": "A", "gt": "D", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-015", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-016", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-017", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-018", "cat": "路线几何设计", "ans": "B", "gt": "C", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-019", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-020", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-021", "cat": "路线几何设计", "ans": "B", "gt": "A", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-022", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-023", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-024", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-025", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-026", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-027", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-028", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-029", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-030", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-031", "cat": "路线几何设计", "ans": "B", "gt": "D", "ok": false, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-032", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-033", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-034", "cat": "路线几何设计", "ans": "B", "gt": "C", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-035", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-036", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-037", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-038", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-039", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-040", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-041", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-042", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-043", "cat": "路线几何设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-044", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-045", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-046", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-047", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-048", "cat": "路线几何设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-049", "cat": "路线几何设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "geom-050", "cat": "路线几何设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-001", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-002", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-003", "cat": "路基路面设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-004", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-005", "cat": "路基路面设计", "ans": "A", "gt": "C", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-006", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-007", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-008", "cat": "路基路面设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-009", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-010", "cat": "路基路面设计", "ans": "A", "gt": "D", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-011", "cat": "路基路面设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-012", "cat": "路基路面设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-013", "cat": "路基路面设计", "ans": "A", "gt": "C", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-014", "cat": "路基路面设计", "ans": "B", "gt": "D", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-015", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-016", "cat": "路基路面设计", "ans": "C", "gt": "A", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-017", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-018", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-019", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-020", "cat": "路基路面设计", "ans": "B", "gt": "C", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-021", "cat": "路基路面设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-022", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-023", "cat": "路基路面设计", "ans": "D", "gt": "C", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-024", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-025", "cat": "路基路面设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-026", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-027", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-028", "cat": "路基路面设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-029", "cat": "路基路面设计", "ans": "B", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-030", "cat": "路基路面设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-031", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-032", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-033", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-034", "cat": "路基路面设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-035", "cat": "路基路面设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-036", "cat": "路基路面设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-037", "cat": "路基路面设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-038", "cat": "路基路面设计", "ans": "B", "gt": "C", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-039", "cat": "路基路面设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "pave-040", "cat": "路基路面设计", "ans": "A", "gt": "D", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-001", "cat": "桥涵设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-002", "cat": "桥涵设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-003", "cat": "桥涵设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-004", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-005", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-006", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-007", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-008", "cat": "桥涵设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-009", "cat": "桥涵设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-010", "cat": "桥涵设计", "ans": "B", "gt": "C", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-011", "cat": "桥涵设计", "ans": "C", "gt": "B", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-012", "cat": "桥涵设计", "ans": "C", "gt": "B", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-013", "cat": "桥涵设计", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-014", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-015", "cat": "桥涵设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-016", "cat": "桥涵设计", "ans": "A", "gt": "B", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-017", "cat": "桥涵设计", "ans": "A", "gt": "D", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-018", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-019", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-020", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-021", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-022", "cat": "桥涵设计", "ans": "B", "gt": "D", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-023", "cat": "桥涵设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-024", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-025", "cat": "桥涵设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-026", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-027", "cat": "桥涵设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-028", "cat": "桥涵设计", "ans": "A", "gt": "B", "ok": false, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-029", "cat": "桥涵设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-030", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-031", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-032", "cat": "桥涵设计", "ans": "C", "gt": "A", "ok": false, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-033", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-034", "cat": "桥涵设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "brg-035", "cat": "桥涵设计", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-001", "cat": "隧道设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-002", "cat": "隧道设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-003", "cat": "隧道设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-004", "cat": "隧道设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-005", "cat": "隧道设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-006", "cat": "隧道设计", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-007", "cat": "隧道设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-008", "cat": "隧道设计", "ans": "A", "gt": "C", "ok": false, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-009", "cat": "隧道设计", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-010", "cat": "隧道设计", "ans": "C", "gt": "A", "ok": false, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-011", "cat": "隧道设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-012", "cat": "隧道设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-013", "cat": "隧道设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-014", "cat": "隧道设计", "ans": "A", "gt": "B", "ok": false, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-015", "cat": "隧道设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-016", "cat": "隧道设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-017", "cat": "隧道设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-018", "cat": "隧道设计", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-019", "cat": "隧道设计", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-020", "cat": "隧道设计", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-021", "cat": "隧道设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-022", "cat": "隧道设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-023", "cat": "隧道设计", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-024", "cat": "隧道设计", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "tun-025", "cat": "隧道设计", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-001", "cat": "测量水文勘察", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-002", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-003", "cat": "测量水文勘察", "ans": "A", "gt": "B", "ok": false, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-004", "cat": "测量水文勘察", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-005", "cat": "测量水文勘察", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-006", "cat": "测量水文勘察", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-007", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-008", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-009", "cat": "测量水文勘察", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-010", "cat": "测量水文勘察", "ans": "A", "gt": "D", "ok": false, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-011", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-012", "cat": "测量水文勘察", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-013", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-014", "cat": "测量水文勘察", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-015", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-016", "cat": "测量水文勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-017", "cat": "测量水文勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-018", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-019", "cat": "测量水文勘察", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "surv-020", "cat": "测量水文勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-001", "cat": "交叉交通工程排水防护", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-002", "cat": "交叉交通工程排水防护", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-003", "cat": "交叉交通工程排水防护", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-004", "cat": "交叉交通工程排水防护", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-005", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-006", "cat": "交叉交通工程排水防护", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-007", "cat": "交叉交通工程排水防护", "ans": "D", "gt": "D", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-008", "cat": "交叉交通工程排水防护", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-009", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "C", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-010", "cat": "交叉交通工程排水防护", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-011", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-012", "cat": "交叉交通工程排水防护", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-013", "cat": "交叉交通工程排水防护", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-014", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "C", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-015", "cat": "交叉交通工程排水防护", "ans": "B", "gt": "C", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-016", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-017", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-018", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-019", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-020", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-021", "cat": "交叉交通工程排水防护", "ans": "B", "gt": "B", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-022", "cat": "交叉交通工程排水防护", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-023", "cat": "交叉交通工程排水防护", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-024", "cat": "交叉交通工程排水防护", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "traf-025", "cat": "交叉交通工程排水防护", "ans": "D", "gt": "D", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "kc-001", "cat": "总则/公路分级", "ans": "B", "gt": "D", "ok": false, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "kc-002", "cat": "路线几何", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "kc-003", "cat": "路线几何", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "kc-004", "cat": "路线几何", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "kc-005", "cat": "路线几何", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "kc-006", "cat": "路线几何", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "kc-007", "cat": "路线几何", "ans": "A", "gt": "A", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "kc-008", "cat": "桥涵", "ans": "B", "gt": "B", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "kc-009", "cat": "桥涵", "ans": "C", "gt": "C", "ok": true, "hit": false, "n_chunks": 6, "key_version": "1.1"}
+{"id": "kc-010", "cat": "隧道", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "kc-011", "cat": "工程地质勘察", "ans": "A", "gt": "A", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}
+{"id": "kc-012", "cat": "工程地质勘察", "ans": "C", "gt": "C", "ok": true, "hit": true, "n_chunks": 6, "key_version": "1.1"}

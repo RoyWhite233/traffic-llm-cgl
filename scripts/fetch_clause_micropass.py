@@ -5,7 +5,7 @@ Each item gets an explicit (doc-hint, keywords) pair chosen during per-item AI r
 Searches chunk keyword API within the hinted document (falling back to KB-wide vector
 search restricted by doc-name match). Results go to clause_micro.jsonl for final review.
 """
-import json, re, os, time
+import json, re, subprocess, time
 import requests
 
 KB = "a10cc8e4387411f19a3cbd8efb86d340"
@@ -38,7 +38,16 @@ PLAN = {
 }
 
 
-H = {"Authorization": "Bearer " + os.environ["RAGFLOW_API_KEY"]}
+def get_token():
+    sql = ("SELECT token FROM rag_flow.api_token WHERE tenant_id="
+           "(SELECT tenant_id FROM rag_flow.knowledgebase WHERE id='%s') LIMIT 1;" % KB)
+    out = subprocess.check_output(
+        ["docker", "exec", "docker-mysql-1", "mysql", "-uroot", "-pinfini_rag_flow", "-N", "-e", sql],
+        stderr=subprocess.DEVNULL).decode().strip()
+    return out
+
+
+H = {"Authorization": "Bearer " + get_token()}
 HJ = {**H, "Content-Type": "application/json"}
 
 
